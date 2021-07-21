@@ -20,10 +20,10 @@ Chargé de mission éducation artistique et culturelle, lutte contre le décroch
 __IRA de Bastia (Haute-Corse)__
 
 `2004 - 2010`
-__IEP de Lille (Nord)__
+__IEP de Lille (Nord)__, Filière "Politique, économie et société" - M2 "Management des institutions culturelles "
 
 `2004 - 2008`
-__University of Kent (Canterbury - GB)__
+__University of Kent (Canterbury - GB)__, Bachelor of Arts (BA) in "Politics, philosophy and economics in Europe"
 
 
 ## Expérience professionnelle
