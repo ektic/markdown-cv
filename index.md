@@ -1,91 +1,49 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Edouard Scherrer
+Chargé de mission 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="edouard.scherrer@gmail.com">edouard.scherrer@gmail.com</a>
 </div>
 
 
-## Currently
+## En ce moment
 
-Standing on the shoulders of giants
+Chargé de mission éducation artistique et culturelle, lutte contre le décrochage et démocratie à l'école
 
-### Specialized in
+## Formation
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2015 - 2016`
+__IRA de Bastia (Haute-Corse)__
 
+`2004-2010`
+__IEP de Lille (Nord)__
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2004 - 2008`
+__University of Kent (Canterbury - GB)__
 
 
+## Expérience professionnelle
 
-## Awards
+`1er septembre 2016 - Maintenant`
+__Ministère de l'Agriculture et de l'Alimentation__, Paris
 
-`2012`
-President, *Royal Society*, London, UK
+- Éducation artistique et culturelle : participation aux instances nationales, création et pilotage de dispositifs interministériels ou propres à l'enseignement agricole, lien avec le réseau national des enseignants d'ESC
+- Lutte contre le décrochage : élaboration et expression des besoins du MAA auprès de la maîtrise d'ouvrage des systèmes d'information, centralisation et diffusion des bonnes pratiques
+- Démocratie à l'école : organisation du Conseil National des Délégués, constitution et suivi de partenariats externes
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015`
+__Fonctionnaire-stagiaire__, IRA de Bastia
+- Stage court au Ministère de la Santé (élaboration du livret d'accueil des nouveaux arrivants)
+- Stage court à la Préfecture du Nord (réalisation d'un bilan du contrôle de légalité)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Juillet 2021 -->
 
 
