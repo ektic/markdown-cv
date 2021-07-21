@@ -6,7 +6,7 @@ title: Curriculum Vitae
 Chargé de mission 
 
 <div id="webaddress">
-<a href="xxx@gmail.com">edouard.scherrer@gmail.com</a>
+<a href="xxx@gxxx.com">xxx@xxx.com</a>
 </div>
 
 
