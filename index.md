@@ -2,11 +2,11 @@
 layout: cv
 title: Curriculum Vitae
 ---
-# Edouard Scherrer
+# xxx xxx
 Chargé de mission 
 
 <div id="webaddress">
-<a href="edouard.scherrer@gmail.com">edouard.scherrer@gmail.com</a>
+<a href="xxx@gmail.com">edouard.scherrer@gmail.com</a>
 </div>
 
 
